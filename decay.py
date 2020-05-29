@@ -38,7 +38,7 @@ c=2
 l =[]
 s=0
 while c > 0.000001 :
-    print(c)
+    #print(c)
     if c >= 10 :
         compile(0.01*c)
     elif 10 > c >= 1:
